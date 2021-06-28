@@ -1,0 +1,5 @@
+klw mau ganti gambar ganti yang berada di stik ama lib
+video juga bisa di ganti pake video kalian sendiri
+
+Jika ganti gambar harus samakan dengan format sebelumnya
+Ini penting apalagi yang di folder stik, berpengaruh sama fungsi
